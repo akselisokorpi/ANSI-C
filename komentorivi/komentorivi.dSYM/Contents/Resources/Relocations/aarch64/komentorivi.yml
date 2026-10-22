@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/akseliisokorpi/Documents/Ohj_tek_C/komentorivi/komentorivi'
+relocations:     []
+...
